@@ -1,3 +1,6 @@
 [submodule "MyBlog/octopress/.themes/budget-bumbago"]
 	path = MyBlog/octopress/.themes/budget-bumbago
 	url = git://github.com/octothemes/budget-bumbago.git
+[submodule "MyBlog/octopress/.themes/venice"]
+	path = MyBlog/octopress/.themes/venice
+	url = git://github.com/octothemes/venice.git
