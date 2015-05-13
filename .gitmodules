@@ -4,3 +4,6 @@
 [submodule "MyBlog/octopress/.themes/venice"]
 	path = MyBlog/octopress/.themes/venice
 	url = git://github.com/octothemes/venice.git
+[submodule "MyBlog/octopress/.themes/dark"]
+	path = MyBlog/octopress/.themes/dark
+	url = git://github.com/octothemes/classic-dark.git
